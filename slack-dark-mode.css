@@ -195,6 +195,7 @@ div.c-message.c-message--light.c-message--hover {
     font-weight: 600;
     color: white !important;
     font-size: 14px !important;
+    letter-spacing: 1px !important;
 }
 span.c-message__body,
 a.c-message__sender_link,
