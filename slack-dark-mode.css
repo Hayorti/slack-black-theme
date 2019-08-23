@@ -204,7 +204,7 @@ div.p-message_pane__foreword__description span {
     color: white;
     font-size: 14px;
     font-weight: 200;
-    letter-spacing: 0.5px !important;
+    letter-spacing: 1px !important;
 }
 div.c-virtual_list__scroll_container {
     background-color: #222222 !important;
