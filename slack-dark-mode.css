@@ -977,7 +977,6 @@ ts-message .internal_member_link:hover {
     background: #222 !important;
     top: 13px;
     color: white;
-    letter-spacing: 0.3px !important;
 }
 .c-message_list__day_divider__line {
     border-top-color: #363636;
@@ -1525,7 +1524,8 @@ background:black;}
     background: #232323;}
     .day_divider .day_divider_label {
     background: #424242;
-    color: white;}
+    color: white;
+    letter-spacing: 0.3px !important;}
     #edit_topic_trigger {
     display: none;
     visibility: hidden;
