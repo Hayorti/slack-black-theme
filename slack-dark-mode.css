@@ -977,6 +977,7 @@ ts-message .internal_member_link:hover {
     background: #222 !important;
     top: 13px;
     color: white;
+    letter-spacing: 0.3px !important;
 }
 .c-message_list__day_divider__line {
     border-top-color: #363636;
